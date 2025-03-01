@@ -1,4 +1,4 @@
-# Context-Aware Multi-Scale Feature Integration for Segmentation in Remote Sensing
+# Multi-Scale Context-Aware Feature Integration for Remote Sensing Segmentation
 
 ## Overview
 This project focuses on **context-aware multi-scale feature integration** for **instance segmentation in remote sensing images**. The goal is to enhance segmentation accuracy by leveraging **multi-scale context aggregation**. The proposed model is compared against **CATNet**, **DeepLabV3**, and **HRNet** on multiple remote sensing datasets.
